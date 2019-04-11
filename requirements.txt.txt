@@ -1,0 +1,5 @@
+sudo apt-get install python3,python3-tk
+pip install pycrypto
+pip install pillow
+pip install opencv-python
+
